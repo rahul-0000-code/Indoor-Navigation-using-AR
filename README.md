@@ -1,5 +1,7 @@
 # Indoor-Navigation-using-AR
 A Augumented Reality, Unity Platform based Indoor Navigation for a home map
+Additionally i was upto stage 2 of the project, further more process are involved
+Trying to clone may refer google AR core documentation
 
 The Indoor Navigation using Augmented Reality, is a comprehensive collection of resources and code examples aimed at facilitating the development of indoor navigation systems leveraging the power of AR technology.
 For cloning the process
